@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Arkansas Floater</string>
+    <string name="connection_error">There is an issue with the Connection&#8230;</string>
+    <string name="xml_error">There is an issue with the XML feed&#8230;</string>
+
+    <string-array name="river_names">
+        <item name="buffalo">Buffalo National River</item>
+        <item name="piney">Big Piney River</item>
+        <item name="cadron">Cadron River</item>
+        <item name="ouachita">Ouachita River</item>
+        <item name="spring">Spring River</item>
+        <item name="white">White River</item>
+    </string-array>
+
+    <string-array  formatted="false" name="codes">
+        <item name="buffalo">07055660,07055646,07056000,07056700,07055680</item>
+        <item name="piney">06930000,06930060</item>
+        <item name="cadron">07261000,07261200,07260990,07261250</item>
+        <item name="ouachita">07356000,07367005,07359002,07364535</item>
+        <item name="spring">07069305,07185700,07069220,07186000,07188000</item>
+        <item name="white">07048600,07057370,07060728</item>
+
+    </string-array>
+
+    <string-array name="buffalo">
+        <item name="1"><u>Near Boxley, AR</u></item>
+        <item name="2"><u>Near Ponca, AR</u></item>
+        <item name="3"><u>Near Pruitt, AR</u></item>
+        <item name="4"><u>Near St Joe, AR</u></item>
+        <item name="5"><u>Near Harriet, AR</u></item>
+    </string-array>
+
+    <string-array name="big_piney">
+        <item name="1">Near Big Piney, MO</item>
+        <item name="2">Near Fort Leonard Wood, MO</item>
+    </string-array>
+
+    <string-array name="cadron">
+        <item name="1">Near Guy, AR</item>
+        <item name="2">Near Enola, AR (East Fork Cadron)</item>
+        <item name="3">Near Quitman, AR (North Fork Cadron)</item>
+        <item name="4">Near Conway, AR</item>
+    </string-array>
+
+    <string-array name="ouachita">
+        <item name="1">Near Mount Ida, AR</item>
+        <item name="2">Near West Monroe, LA</item>
+        <item name="3">Remmel Dam, above Jones Mill, AR</item>
+        <item name="4">Near Sterlington, LA</item>
+    </string-array>
+
+    <string-array name="spring">
+        <item name="1">Spring Street Bridge, Hardy, AR</item>
+        <item name="2">Near La Russell, MO</item>
+        <item name="3">Near Mammoth Springs, AR</item>
+        <item name="4">Near Waco, MO</item>
+        <item name="5">Near Quapaw, OK</item>
+    </string-array>
+
+    <string-array name="white">
+        <item name="1">Near Fayetteville, AR</item>
+        <item name="2">Near Norfork, AR</item>
+        <item name="3">Near Allison, AR</item>
+    </string-array>
+
+</resources>

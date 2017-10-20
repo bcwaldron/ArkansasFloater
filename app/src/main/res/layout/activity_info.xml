@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarStyle="insideInset">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/river"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:textAlignment="textStart"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/site1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.03"
+            android:textAlignment="textStart"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/temp1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Temperature:"
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/discharge1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Water Discharge:"
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/height1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Height: "
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/site2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:textAlignment="textStart"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/temp2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Temperature:"
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/discharge2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Discharge: "
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/height2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Height: "
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/site3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:textAlignment="textStart"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/temp3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Temperature:"
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/discharge3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Discharge: "
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/height3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Height: "
+            android:textAlignment="textStart"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/site4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:textAlignment="textStart"
+            android:textSize="24sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/temp4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Temperature:"
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/discharge4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Discharge: "
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/height4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Height: "
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/site5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:textAlignment="textStart"
+            android:textSize="24sp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/temp5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Temperature:"
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/discharge5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Discharge: "
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/height5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.07"
+            android:text="Water Height: "
+            android:textAlignment="textStart"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+</ScrollView>
