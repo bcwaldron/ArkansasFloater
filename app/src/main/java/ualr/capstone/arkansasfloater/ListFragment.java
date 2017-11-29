@@ -151,7 +151,6 @@ public class ListFragment extends Fragment {
 
         String[] names = res.getStringArray(R.array.river_names);
         String[] codes = res.getStringArray(R.array.codes);
-        //buffalo = Arrays.asList(getResources().getStringArray(R.array.buffalo));
         String code;
         preurl = "https://waterservices.usgs.gov/nwis/iv/?format=json&sites=";
         posturl = "&parameterCd=00060,00065,00010&siteStatus=all";

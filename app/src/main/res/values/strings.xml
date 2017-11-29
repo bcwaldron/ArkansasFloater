@@ -2,6 +2,11 @@
     <string name="app_name">Arkansas Floater</string>
     <string name="connection_error">There is an issue with the Connection&#8230;</string>
     <string name="xml_error">There is an issue with the XML feed&#8230;</string>
+    <string name="CONSUMER_KEY">E8kwGoo2xLRvi8XLGpzRSeUdO</string>
+    <string name="CONSUMER_SECRET">3nVdyBcy3nnyJUWMUsR3l3Qdeg3HSPhBNMZ0VvifAleeJD7bJb</string>
+    <string name="ACCESS">input your access code here!!!</string>
+    <string name="ACCESS_SECRET">input your secret access code here!!!</string>
+    <string name="QUERY">(river) OR (buffalo river) OR (ouachita) OR (mulberry river) OR (kings river) OR (levels) OR (floating) OR (kayaking) OR (canoeing) OR (ozarks)</string>
 
     <string-array name="river_names">
         <item name="buffalo">Buffalo National River</item>
@@ -10,6 +15,40 @@
         <item name="ouachita">Ouachita River</item>
         <item name="spring">Spring River</item>
         <item name="white">White River</item>
+    </string-array>
+
+    <string-array name="matches">
+        <item>I had an awesome weekend on the river!</item>
+        <item>The Buffalo was beautiful this morning! #river #AR #buffalo #ozarks</item>
+        <item>What beautiful weather for kayaking</item>
+        <item>The rain won't keep us from floating! #canoeing #kayaking #floating</item>
+        <item>Had a great time at the river this weekend</item>
+        <item>River level looks great for floating this weekend</item>
+        <item>I can't wait to get out on a canoe soon</item>
+        <item>The weather should be great this weekend on the river</item>
+        <item>The river is moving fast after all that rain this week</item>
+        <item>The river is moving too fast this week for floating</item>
+        <item>Weather conditions are too dangerous to be out on the river</item>
+        <item>Had a great time camping and floating this weekend</item>
+        <item>The Mulberry is wild right now, but still had a great time</item>
+        <item>The Big Piney is beautiful this time of year</item>
+        <item>Great weather on the Buffalo National River</item>
+        <item>Great weekend to get out on a canoe of kayak</item>
+        <item>Great weather on the Ouachita River</item>
+        <item>Great weather on the White River</item>
+        <item>Great weather on the Cadron River</item>
+        <item>Great time floating this weekend on the Spring River</item>
+        <item>Kings falls is looking beautiful</item>
+        <item>Kings river sure looks dried up</item>
+        <item> #AR #floating #river #rivers #ozarks #canoeing #kayaking #weather</item>
+    </string-array>
+
+    <string-array name="notMatches">
+        <item>blah</item>
+        <item>love is like a river</item>
+        <item>like a river, time continues to flow</item>
+        <item>Little Rock sucks and I hate it here</item>
+        <item></item>
     </string-array>
 
     <string-array  formatted="false" name="codes">

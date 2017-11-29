@@ -26,6 +26,10 @@
             android:name=".InfoActivity"
             android:parentActivityName=".RList">
         </activity>
+        <activity
+            android:name=".TList"
+            android:parentActivityName=".MainActivity">
+        </activity>
 
     </application>
 

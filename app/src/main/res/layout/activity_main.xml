@@ -11,21 +11,34 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="50dp"
-        android:text="Welcome! This app provides water height data for Arkansas Rivers, press the button to continue"
-        android:textAlignment="center" />
+        android:text="Welcome! This application provides Arkansas River Data through two methods: USGS provided information, and utilizing a text categorizer to find relevant tweets."
+        android:textAlignment="center"
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/continuebutton"
         android:layout_width="150dp"
         android:layout_height="75dp"
-        android:layout_centerHorizontal="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:layout_centerVertical="true"
-        android:onClick="click"
-        android:text="Continue" />
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:text="USGS River Conditions" />
+
+    <Button
+        android:id="@+id/twitterButton"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_alignTop="@+id/continuebutton"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_toEndOf="@+id/continuebutton"
+        android:layout_toRightOf="@+id/continuebutton"
+        android:text="Data-Mine Twitter" />
 
 </RelativeLayout>
