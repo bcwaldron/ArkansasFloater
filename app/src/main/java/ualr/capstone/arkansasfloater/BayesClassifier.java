@@ -96,10 +96,10 @@ public class BayesClassifier extends AsyncTask<Void, Void, ArrayList<Tweet>> {
 
         bc = new BayesianClassifier();
         //bc.setMatchCutoff(50.00);
-        Tweet tw = new Tweet();
 
         for(int i = 0; i < texts.size();i++){
 
+            Tweet tw = new Tweet();
             tw.setText(texts.get(i));
             tw.setUser(users.get(i));
 

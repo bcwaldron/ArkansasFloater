@@ -53,10 +53,16 @@
         <item>had a great time camping at buffalo national river</item>
         <item>the buffalo national river is a great time</item>
         <item>the buffalo river was beautiful this morning</item>
+        <item>got a great shot of the river this weekend</item>
+        <item>look at this fun people floating the river</item>
+        <item>anybody wanna go float the buffalo this weekend?</item>
+        <item>i love canoeing this time of year</item>
+        <item>this was the beautiful scene we found down on the river</item>
+        <item>had a great time out on the river today</item>
+        <item>cant wait to get to the river this weekend and do some floating</item>
     </string-array>
 
     <string-array name="notMatches">
-        <item>blah</item>
         <item>Little Rock sucks and I hate it here</item>
         <item>check out my sweet vid: http://t.co/youtube</item>
         <item>everybody check out my sweet vid on youtube</item>
@@ -69,6 +75,26 @@
         <item>#media says that #liberate blah blah</item>
         <item>fake news</item>
         <item>fake newz</item>
+        <item>healthcare position in ny</item>
+        <item>fuck all this stupid shit</item>
+        <item>i love all this buffalo sauce</item>
+        <item>i cant wait to go get some buffalo wings</item>
+        <item>buffalo sauce is the shit</item>
+        <item>buffalo sauce is awesome</item>
+        <item>oh, boy the deep fryer's here</item>
+        <item>pearl river community college sucks</item>
+        <item>thank you prcc wildcats</item>
+        <item>cant wait for prcc due de due</item>
+        <item>chickfila got to be buffalo sauce</item>
+        <item>true happiness is investing in really good headphones and using them to listen to songs that make you feel</item>
+        <item>i just added this to my closet on poshmark</item>
+        <item>left a take out container of buffalo sauce oh no</item>
+        <item>omg @prcc_wilcats you guys are awesome</item>
+        <item>dont make me look at more @prcc_wildcats tweets</item>
+        <item>were all just floating in nothingness anyway</item>
+        <item>we all just floating in the middle of nowhere anyway</item>
+        <item>do you buffalo</item>
+        <item></item>
     </string-array>
 
     <string-array  formatted="false" name="codes">

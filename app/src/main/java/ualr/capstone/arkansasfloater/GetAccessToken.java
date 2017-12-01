@@ -78,7 +78,7 @@ public class GetAccessToken extends AsyncTask<String, Void, ArrayList<String>> {
         Query q = new Query(queryString);
         q.setLang("en");
         q.setSince(twoWeeksOld);
-        q.geoCode(geo, 500, "mi");
+        q.setGeoCode(geo, 400, Query.Unit.mi);
         QueryResult result;
 
         //collecting the tweets, and the users they came from
