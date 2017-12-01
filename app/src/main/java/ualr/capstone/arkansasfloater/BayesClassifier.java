@@ -47,13 +47,13 @@ public class BayesClassifier extends AsyncTask<Void, Void, ArrayList<Tweet>> {
 
         for(int i = 0; i < matches.size();i++){
 
-           // wds.addMatch(matches.get(i));
+
             bc.teachMatch(matches.get(i));
         }
 
         for(int i = 0; i < nonMatches.size();i++){
 
-           // wds.addNonMatch(nonMatches.get(i));
+
             bc.teachNonMatch(matches.get(i));
         }
     }
@@ -95,6 +95,7 @@ public class BayesClassifier extends AsyncTask<Void, Void, ArrayList<Tweet>> {
         nonMatches = Arrays.asList(mContext.getResources().getStringArray(R.array.notMatches));
 
         bc = new BayesianClassifier();
+        //bc.setMatchCutoff(50.00);
         Tweet tw = new Tweet();
 
         for(int i = 0; i < texts.size();i++){

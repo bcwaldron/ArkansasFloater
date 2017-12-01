@@ -74,11 +74,11 @@ public class GetAccessToken extends AsyncTask<String, Void, ArrayList<String>> {
         users = new ArrayList<String>();
 
         //building the query
-        GeoLocation geo = new GeoLocation(34.7465, 92.2896);
+        GeoLocation geo = new GeoLocation(34.7465, -92.2896);
         Query q = new Query(queryString);
         q.setLang("en");
         q.setSince(twoWeeksOld);
-        q.geoCode(geo, 400, "mi");
+        q.geoCode(geo, 500, "mi");
         QueryResult result;
 
         //collecting the tweets, and the users they came from

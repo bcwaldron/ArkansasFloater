@@ -4,9 +4,9 @@
     <string name="xml_error">There is an issue with the XML feed&#8230;</string>
     <string name="CONSUMER_KEY">E8kwGoo2xLRvi8XLGpzRSeUdO</string>
     <string name="CONSUMER_SECRET">3nVdyBcy3nnyJUWMUsR3l3Qdeg3HSPhBNMZ0VvifAleeJD7bJb</string>
-    <string name="ACCESS">input your access code here!!!</string>
-    <string name="ACCESS_SECRET">input your secret access code here!!!</string>
-    <string name="QUERY">(river) OR (buffalo river) OR (ouachita) OR (mulberry river) OR (kings river) OR (levels) OR (floating) OR (kayaking) OR (canoeing) OR (ozarks)</string>
+    <string name="ACCESS">input access code</string>
+    <string name="ACCESS_SECRET">input secret access code</string>
+    <string name="QUERY">(buffalo river) OR (ouachita river) OR (mulberry river) OR (kayaking) OR (canoeing) OR (river) OR (floating) OR (buffalo)</string>
 
     <string-array name="river_names">
         <item name="buffalo">Buffalo National River</item>
@@ -18,10 +18,10 @@
     </string-array>
 
     <string-array name="matches">
-        <item>I had an awesome weekend on the river!</item>
-        <item>The Buffalo was beautiful this morning! #river #AR #buffalo #ozarks</item>
+        <item>I had an awesome weekend on the river</item>
+        <item>The buffalo was beautiful this morning</item>
         <item>What beautiful weather for kayaking</item>
-        <item>The rain won't keep us from floating! #canoeing #kayaking #floating</item>
+        <item>The rain won't keep us from floating</item>
         <item>Had a great time at the river this weekend</item>
         <item>River level looks great for floating this weekend</item>
         <item>I can't wait to get out on a canoe soon</item>
@@ -40,15 +40,35 @@
         <item>Great time floating this weekend on the Spring River</item>
         <item>Kings falls is looking beautiful</item>
         <item>Kings river sure looks dried up</item>
-        <item> #AR #floating #river #rivers #ozarks #canoeing #kayaking #weather</item>
+        <item>check out my awesome photos of floating this weeekend</item>
+        <item>thanks for the awesome pic of our float trip</item>
+        <item>totally excited for the float trip this weekend</item>
+        <item>cant wait to get out of little rock this weekend and head to the river</item>
+        <item>had a great time down at the river</item>
+        <item>buffalo river always surprises me how beautiful it is</item>
+        <item>the buffalo river really is beautiful this time of year</item>
+        <item>US guard says that the weather is great this weekend</item>
+        <item>its a great time to float the buffalo right now</item>
+        <item>can't wait to get out to the buffalo</item>
+        <item>had a great time camping at buffalo national river</item>
+        <item>the buffalo national river is a great time</item>
+        <item>the buffalo river was beautiful this morning</item>
     </string-array>
 
     <string-array name="notMatches">
         <item>blah</item>
-        <item>love is like a river</item>
-        <item>like a river, time continues to flow</item>
         <item>Little Rock sucks and I hate it here</item>
-        <item></item>
+        <item>check out my sweet vid: http://t.co/youtube</item>
+        <item>everybody check out my sweet vid on youtube</item>
+        <item>these floating teeth scare me</item>
+        <item>titanic 2 is going to be awesome</item>
+        <item>the big bang theory isnt as funny as people think it is</item>
+        <item>who would've believed they had a permanent population of 30,000</item>
+        <item>the new pan asian destroyers suck</item>
+        <item>omg im like so over instagram</item>
+        <item>#media says that #liberate blah blah</item>
+        <item>fake news</item>
+        <item>fake newz</item>
     </string-array>
 
     <string-array  formatted="false" name="codes">

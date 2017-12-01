@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0; i < tweets.size(); i++){
 
             tw.add(tweets.get(i).getText());
-            users.add(tweets.get(i).getText());
+            users.add(tweets.get(i).getUser());
             ratings[i] = tweets.get(i).getRating();
         }
 
